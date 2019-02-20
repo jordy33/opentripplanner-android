@@ -118,13 +118,19 @@ dependencies {
     compile 'com.google.android.gms:play-services-maps:7.8.0'
     compile 'com.google.android.gms:play-services-location:7.8.0'
     // Jackson is used for parsing JSON REST API responses
-    compile 'com.fasterxml.jackson.core:jackson-core:2.4.1'
-    compile 'com.fasterxml.jackson.core:jackson-annotations:2.4.1'
-    compile 'com.fasterxml.jackson.core:jackson-databind:2.4.1.1'
+    //compile 'com.fasterxml.jackson.core:jackson-core:2.4.1'
+    //compile 'com.fasterxml.jackson.core:jackson-annotations:2.4.1'
+    //compile 'com.fasterxml.jackson.core:jackson-databind:2.4.1.1'
     // POJOs used for full data-binding via Jackson
-    compile 'edu.usf.cutr.opentripplanner.android:opentripplanner-pojos:1.0.0-SNAPSHOT'
+    //compile 'edu.usf.cutr.opentripplanner.android:opentripplanner-pojos:1.0.0-SNAPSHOT'
     // OpenCSV, for parsing the OTP Server Directory Google Doc
-    compile 'net.sf.opencsv:opencsv:2.3'
+    //compile 'net.sf.opencsv:opencsv:2.3'
     // Map util (point in bounding box)
     compile 'com.google.maps.android:android-maps-utils:0.4'
+    //compile files ("libs/opentripplanner-pojos-1.0.0-SNAPSHOT")
+    compile files('libs/opentripplanner-pojos-1.0.0-SNAPSHOT.jar')
+    compile files('libs/jackson-databind-2.4.1.1.jar')
+    compile files('libs/jackson-core-2.4.1.jar')
+    compile files('libs/jackson-annotations-2.4.1.jar')
+    compile files('libs/opencsv-2.3.jar')
 }

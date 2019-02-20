@@ -103,14 +103,14 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="Gradle: com.google.maps.android:android-maps-utils:0.4@aar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-annotations:22.2.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/libs/opencsv-2.3.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.google.android.gms:play-services-base:7.8.0@aar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: edu.usf.cutr.opentripplanner.android:opentripplanner-pojos:1.0.0-SNAPSHOT@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.4.1@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: net.sf.opencsv:opencsv:2.3@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/libs/jackson-core-2.4.1.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-v4:22.2.0@aar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.google.android.gms:play-services-maps:7.8.0@aar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.4.1.1@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.4.1@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/libs/opentripplanner-pojos-1.0.0-SNAPSHOT.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.google.android.gms:play-services-location:7.8.0@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/libs/jackson-annotations-2.4.1.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/libs/jackson-databind-2.4.1.1.jar:unspecified@jar" level="project" />
   </component>
 </module>

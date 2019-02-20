@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_jars__:/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/libs/opentripplanner-pojos-1.0.0-SNAPSHOT.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/opentripplanner-android/libs/opentripplanner-pojos-1.0.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

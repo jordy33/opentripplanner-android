@@ -57,6 +57,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/libs/jackson-databind-2.4.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c14345441fad67b33200e67ad59bdb26c245f541">
+        <dex dex="/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/jackson-databind-2.4.1.1_7173cf1b0bb6c6106d6b4b6f7fd2725a1c72a02b.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/jorgemacias/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
         jumboMode="false"
         optimize="true"
@@ -99,6 +108,15 @@
         revision="21.1.2"
         sha1="55605135bd7b836612e0bba7037c9669f6ccf89f">
         <dex dex="/Users/jorgemacias/Downloads/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/jackson-annotations-2.4.1_023619743c7df0dc8bd18d2bab97bbc89b80bd0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/libs/opentripplanner-pojos-1.0.0-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0eca524b0f1fa5543998595bfef2b60dd3dff354">
+        <dex dex="/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/opentripplanner-pojos-1.0.0-SNAPSHOT_eed491c988437edba6ff62f9391850aaf3fd45cc.jar" />
     </item>
     <item
         is-multidex="false"
@@ -162,6 +180,24 @@
         revision="21.1.2"
         sha1="0eca524b0f1fa5543998595bfef2b60dd3dff354">
         <dex dex="/Users/jorgemacias/Downloads/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/opentripplanner-pojos-1.0.0-SNAPSHOT_5a6d2f998e5e5ae67aada9d64be9665c0911afd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/libs/jackson-core-2.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b130bcfb5a9c410c3cbd2e0adec9437e69a39e2c">
+        <dex dex="/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/jackson-core-2.4.1_7b89c5f1ca9a9e411e94ecfb4c308126abfb5e50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/libs/jackson-annotations-2.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="55605135bd7b836612e0bba7037c9669f6ccf89f">
+        <dex dex="/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/jackson-annotations-2.4.1_aed8c2d066c67b36cd41151605ec4fe7346dc1f5.jar" />
     </item>
 
 </items>
