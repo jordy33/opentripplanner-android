@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b1a7fac58cc85b115adee653a10b6300f90951a">
+        <dex dex="/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/com.google.maps.android-android-maps-utils-0.4_8e2c49b4f5a428b2c7e434267e2d26cf435dcb9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgemacias/Downloads/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/jorgemacias/Downloads/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_d71d4692b4c473c978d5c30137728cb41f44e33c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgemacias/Downloads/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/jorgemacias/Downloads/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-7.8.0_e2ad5981004bef1384cdc9d2408921c7fbc5dce3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgemacias/Downloads/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b1a7fac58cc85b115adee653a10b6300f90951a">
+        <dex dex="/Users/jorgemacias/Downloads/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/com.google.maps.android-android-maps-utils-0.4_a47f50c18db16033f7fae85d60be433a7b67a571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_f3b408b1da0b22b2df307dba0c4c60269acf7517.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-7.8.0_4e878565b558ecc4f989d629aa5c3efebe302fa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgemacias/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/jorgemacias/Downloads/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_259505af123d117bcf175b1dd581d15eb2dd2618.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgemacias/.gradle/caches/modules-2/files-2.1/net.sf.opencsv/opencsv/2.3/c23708cdb9e80a144db433e23344a788a1fd6599/opencsv-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c23708cdb9e80a144db433e23344a788a1fd6599">
+        <dex dex="/Users/jorgemacias/Downloads/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/opencsv-2.3_a8966f00b20f839ee451f7105516a30cad877436.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-7.8.0_fca91ea3e2a3c6721f84ef4fee0cf4a6d50a5caf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-7.8.0_207fa494e2c6ff7a522816358b275e62f6bc0dc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgemacias/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.4.1/55605135bd7b836612e0bba7037c9669f6ccf89f/jackson-annotations-2.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="55605135bd7b836612e0bba7037c9669f6ccf89f">
+        <dex dex="/Users/jorgemacias/Downloads/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/jackson-annotations-2.4.1_023619743c7df0dc8bd18d2bab97bbc89b80bd0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/jorgemacias/Developer/Android/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_ea93f0edf7a9f174e576682c5953f463556d30b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgemacias/Downloads/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/jorgemacias/Downloads/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-7.8.0_4cf4a7cfe32b66ce9e0cc5db0e6ffa5099d4aaed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgemacias/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.4.1/b130bcfb5a9c410c3cbd2e0adec9437e69a39e2c/jackson-core-2.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b130bcfb5a9c410c3cbd2e0adec9437e69a39e2c">
+        <dex dex="/Users/jorgemacias/Downloads/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/jackson-core-2.4.1_9b9b5babd36081d634e3870eb2a8848f82ede396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgemacias/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.1.1/c14345441fad67b33200e67ad59bdb26c245f541/jackson-databind-2.4.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c14345441fad67b33200e67ad59bdb26c245f541">
+        <dex dex="/Users/jorgemacias/Downloads/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/jackson-databind-2.4.1.1_7fe42423c5968e6afdb2793fad865135b2ab06e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgemacias/Downloads/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/jorgemacias/Downloads/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-7.8.0_718645c52fc8a52bfefb2bad3628e7ed4af7ef97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgemacias/Downloads/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/jorgemacias/Downloads/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_36b995476e386b7c7888bdd316b3ff2b0d738b8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgemacias/.gradle/caches/modules-2/files-2.1/edu.usf.cutr.opentripplanner.android/opentripplanner-pojos/1.0.0-SNAPSHOT/eca524b0f1fa5543998595bfef2b60dd3dff354/opentripplanner-pojos-1.0.0-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0eca524b0f1fa5543998595bfef2b60dd3dff354">
+        <dex dex="/Users/jorgemacias/Downloads/OpenTripPlanner-for-Android/opentripplanner-android/build/intermediates/pre-dexed/debug/opentripplanner-pojos-1.0.0-SNAPSHOT_5a6d2f998e5e5ae67aada9d64be9665c0911afd2.jar" />
+    </item>
+
+</items>
